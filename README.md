@@ -4,7 +4,7 @@
 
 ## Installation
 
-- `https://github.com/alaysius/Laravel_ADMINLTE.git`
+- `https://github.com/alaysius/Final-Backend-Examination.git`
 - `cd Laravel_ADMINLTE/`
 - `composer install`
 - Update `.env` and set your database credentials
